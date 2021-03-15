@@ -2,4 +2,4 @@
 
 Mijn foto:
 
-[Zuyd]https://www.zuyd.nl/
+https://www.zuyd.nl/
